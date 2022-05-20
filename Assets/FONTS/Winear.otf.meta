@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d1a466757e2f6b4c957a51aa92fa990
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Winear
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 41f36d1936504ed41acf3e7ce4f34079, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
